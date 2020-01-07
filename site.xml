@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="org.usask.srlab.COSTERUpdateSite">
+      This is the update site for COSTER plugin and feature
+   </description>
+   <feature url="features/org.usask.srlab.COSTERFeature_1.0.0.202001071442.jar" id="org.usask.srlab.COSTERFeature" version="1.0.0.202001071442">
+      <category name="org.usask.srlab.COSTER"/>
+   </feature>
+   <category-def name="org.usask.srlab.COSTER" label="COSTER"/>
+</site>
